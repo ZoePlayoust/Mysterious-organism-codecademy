@@ -15,7 +15,6 @@ const mockUpStrand = () => {
 
 
 let testPAequor = [];
-let names = [];
 
 // Shuffling dna Bases
 const shuffle = (arr) => {
